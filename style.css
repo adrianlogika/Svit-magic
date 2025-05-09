@@ -9,7 +9,7 @@ body {
 header {
   padding: 70px 45px;
    background: url(https://learn.logikaschool.com/uploads/student/2382284/681b74e31f96b.png) no-repeat center center / cover;
-   border-bottom: 5px dashed  #639fec
+   border-bottom: 5px dashed  #639fec;
 }
 
 h1 {
@@ -25,7 +25,7 @@ h1 {
   text-align: center;
   border: 2px solid #86bfff;
   font-family: "Arial";
-  border-radius: 1000px
+  border-radius: 1000px;
 }
 
 header p {
@@ -71,7 +71,7 @@ footer p {
   color: white;
   font-size: 40px;
   margin-top: 10px;
-  font-family:
+  font-family: "Alegreya Sans", sans-serif;
   
 }
 
@@ -79,7 +79,6 @@ footer p {
   text-align: center;
   color: white;
   font-size: 40px;
-  padding-bottom: px;
 }
 
 .description {
@@ -90,9 +89,8 @@ footer p {
 }
 
   .htwofooter {
-    padding: px;
     text-align: center;
     color: white;
     font-size: 40px;
-    font-family: sans-serif
-  }
+    font-family: sans-serif;
+ }
