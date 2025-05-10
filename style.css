@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+
 body {
   padding: 0px;
   margin: 0px;
+  background-color: #0057a8;
 }
 
 header {
@@ -23,6 +26,8 @@ h1 {
   border: 2px solid #86bfff;
   font-family: "Arial";
   border-radius: 1000px;
+  max-width: 600px;
+  margin-left: 300px;
 }
 
 header p {
@@ -67,7 +72,7 @@ footer p {
 .virenos {
   color: white;
   font-size: 40px;
-  margin-top: 10px;
+  margin-top: 1px;
   font-family: "Alegreya Sans", sans-serif;
   
 }
@@ -76,6 +81,7 @@ footer p {
   text-align: center;
   color: white;
   font-size: 40px;
+  margin-top: 0px;
 }
 
 .description {
@@ -83,6 +89,9 @@ footer p {
   border-radius: 5px;
   font-family: "Alegreya Sans", sans-serif;
   font-size: 16px;
+  padding: 3px 3px 3px 3px;
+  background-color: black;
+  
 }
 
   .htwofooter {
@@ -90,4 +99,17 @@ footer p {
     color: white;
     font-size: 40px;
     font-family: sans-serif;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    border: 3px solid black;
+    max-width: 300px;
+    margin-left: 500px;
+    background-color: black;
+    opacity:0.7
+ }
+ 
+ .paragraphfooter {
+   font-family:sans-serif;
+   background-color: rgba(189, 255, 72, 0.5);
+   max-width: 700px;
+   margin-left: 320px
  }
