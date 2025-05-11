@@ -66,7 +66,6 @@ footer p {
   text-align: center;
   font-size: 25px;
   font-family: "Alegreya Sans", sans-serif;
-  
 }
 
 .virenos {
@@ -113,3 +112,26 @@ footer p {
    max-width: 700px;
    margin-left: 540px
  }
+ 
+ .btn {
+   text-decoration: none;
+  color: #3ab4ff;
+  border-radius: 17px;
+  background-color: #003d63;
+  font-family: "Alegreya Sans", sans-serif;
+  padding: 5px;
+  font-size: 30px;
+  margin-left: 200px;
+  border: 2px solid transparent;
+  transition: background 0.5s;
+ }
+ 
+ .btn:hover{
+   background: #0089dd;
+ }
+ 
+ .btn:focus{
+   background: #b7e3f;
+   border: 2px solid white;
+ }
+ 
