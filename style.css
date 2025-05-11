@@ -114,7 +114,7 @@ footer p {
  }
  
  .btn {
-   text-decoration: none;
+  text-decoration: none;
   color: #3ab4ff;
   border-radius: 17px;
   background-color: #003d63;
@@ -131,7 +131,7 @@ footer p {
  }
  
  .btn:focus{
-   background: #b7e3f;
+   background: #0089dd;
    border: 2px solid white;
  }
  
